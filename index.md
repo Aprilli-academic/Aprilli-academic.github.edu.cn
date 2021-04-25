@@ -13,7 +13,7 @@
 </table>
 
 
-### [The latest news] (The latest news)
+### [The latest news] (https://Aprilli-academic.github.io-the_lastest_news)
 
 ### The research direction
 
