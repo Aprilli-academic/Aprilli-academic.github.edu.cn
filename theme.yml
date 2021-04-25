@@ -1,0 +1,5 @@
+- name:      researcher
+  github:    ojroques/hugo-researcher.git themes/researcher
+  branch:    gh-pages                             ## note: defaults to master; only needed for gh-pages
+  demo_url:  https://github.com/ojroques/hugo-researcher.git themes/researcher
+  license:   MIT
