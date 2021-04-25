@@ -5,11 +5,11 @@
       <p><b>Bachelor of Mathematics</b></p>
       <p><b>Duke Kunshan University</b></p>
       <p><b>Email: yl688@duke.edu</b></p>
-  </tr>
    </td>
     <td width="25%">
       <img src="/D3DA88C4-7234-4E48-83F4-CAE87EC16D56.jpeg" width="10%">     
     </td>
+  </tr>
 </table>
 
 
