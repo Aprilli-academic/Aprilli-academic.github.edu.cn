@@ -1,2 +1,0 @@
-# Aprilli-academic.github.io
-
