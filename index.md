@@ -8,7 +8,7 @@
   </tr>
    </td>
     <td width="25%">
-      <img src="" width="100%">      % 插入证件照代码
+      <img src="/D3DA88C4-7234-4E48-83F4-CAE87EC16D56.jpeg" width="100%">     
     </td>
 </table>
 
