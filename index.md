@@ -6,19 +6,18 @@
       <p><b>Duke Kunshan University</b></p>
       <p><b>Email: yl688@duke.edu</b></p>
   </tr>
+   </td>
+    <td width="25%">
+      <img src="" width="100%">      % 插入证件照代码
+    </td>
 </table>
 
-  
-### Personal Information
-#### Name：April Li (Ye Li)
-#### School：Duke Kunshan University
-#### Email: yl688@duke.edu
 
-### 最新消息
+### The latest news
 
-### 研究方向
+### The research direction
 
-### 荣誉奖励
+### Honor rewards
 
-### 项目论文
+### Project paper
 
